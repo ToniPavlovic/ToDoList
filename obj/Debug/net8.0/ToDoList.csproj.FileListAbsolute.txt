@@ -1,0 +1,14 @@
+/home/toni/RiderProjects/ToDoList/bin/Debug/net8.0/ToDoList
+/home/toni/RiderProjects/ToDoList/bin/Debug/net8.0/ToDoList.deps.json
+/home/toni/RiderProjects/ToDoList/bin/Debug/net8.0/ToDoList.runtimeconfig.json
+/home/toni/RiderProjects/ToDoList/bin/Debug/net8.0/ToDoList.dll
+/home/toni/RiderProjects/ToDoList/bin/Debug/net8.0/ToDoList.pdb
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/ToDoList.dll
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/ToDoList.pdb
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
+/home/toni/RiderProjects/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll
